@@ -1,0 +1,13 @@
+{
+  "LanguageServerManager": {
+    "language_servers": {
+      "mlang": {
+        "version": 2,
+        "argv": ["/home/jovyan/octave-lsp", "--stdio"],
+        "languages": ["octave", "matlab", "m"],
+        "mime_types": ["text/octave", "text/x-octave"],
+        "display_name": "Octave/Matlab LSP server"
+      }
+    }
+  }
+}
